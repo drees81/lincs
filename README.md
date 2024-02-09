@@ -1,2 +1,5 @@
-# lincs
-Linux Cheat Sheets
+# Linux Cheat Sheets (lincs)
+
+[tmux]
+
+[tmux]: tmux.md
